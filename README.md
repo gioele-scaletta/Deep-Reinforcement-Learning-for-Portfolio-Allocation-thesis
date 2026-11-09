@@ -14,7 +14,6 @@ risk-adjusted returns net of trading costs, and is evaluated out of sample again
 
 ## Repository contents
 - `Scaletta_Gioele_thesis_ppt_final.pdf` — defence slides
-- *(add code / notebooks folders here if you upload them)*
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/gioele-scaletta-5b154b1a6) · gioelescaletta@gmail.com
